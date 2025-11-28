@@ -1,0 +1,6 @@
+{
+    "notification_status_updated_title": "మీ రిపోర్ట్ యొక్క స్థితి ఇప్పుడు: {{status}}",
+    "notification_status_updated_body": "'{{category}}' కోసం మీ రిపోర్ట్ యొక్క స్థితి నవీకరించబడింది.",
+    "notification_assignment_title": "మీ రిపోర్ట్‌పై చర్య ప్రారంభించబడింది!",
+    "notification_assignment_body": "మీ రిపోర్ట్ ఇప్పుడు {{assignmentType}} కి కేటాయించబడింది."
+} 

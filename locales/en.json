@@ -1,0 +1,6 @@
+{
+	"notification_status_updated_title": "Your Report Status is Now: {{status}}",
+	"notification_status_updated_body": "The status of your report for '{{category}}' has been updated.",
+	"notification_assignment_title": "Your Report is On the Move!",
+	"notification_assignment_body": "Your report has now been assigned to the {{assignmentType}}."
+} 

@@ -1,0 +1,6 @@
+{
+    "notification_status_updated_title": "तुमच्या तक्रारीची स्थिती आता आहे: {{status}}",
+    "notification_status_updated_body": "'{{category}}' साठीच्या तुमच्या तक्रारीची स्थिती अपडेट केली आहे.",
+    "notification_assignment_title": "तुमच्या तक्रारीवर कारवाई सुरू झाली आहे!",
+    "notification_assignment_body": "तुमची तक्रार आता {{assignmentType}} कडे सोपविण्यात आली आहे."
+} 

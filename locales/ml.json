@@ -1,0 +1,6 @@
+{
+    "notification_status_updated_title": "നിങ്ങളുടെ റിപ്പോർട്ടിന്റെ നില ഇപ്പോൾ: {{status}}",
+    "notification_status_updated_body": "'{{category}}' നായുള്ള നിങ്ങളുടെ റിപ്പോർട്ടിന്റെ നില അപ്ഡേറ്റ് ചെയ്തിരിക്കുന്നു.",
+    "notification_assignment_title": "നിങ്ങളുടെ റിപ്പോർട്ടിൽ നടപടി പുരോഗമിക്കുന്നു!",
+    "notification_assignment_body": "നിങ്ങളുടെ റിപ്പോർട്ട് ഇപ്പോൾ {{assignmentType}} ന് നൽകിയിരിക്കുന്നു."
+} 

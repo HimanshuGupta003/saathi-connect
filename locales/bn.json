@@ -1,0 +1,6 @@
+{
+    "notification_status_updated_title": "আপনার রিপোর্টের স্থিতি এখন: {{status}}",
+    "notification_status_updated_body": "'{{category}}' এর জন্য আপনার রিপোর্টের স্থিতি আপডেট করা হয়েছে।",
+    "notification_assignment_title": "আপনার রিপোর্টে কাজ শুরু হয়েছে!",
+    "notification_assignment_body": "আপনার রিপোর্টটি এখন {{assignmentType}} কে দেওয়া হয়েছে।"
+} 

@@ -1,0 +1,6 @@
+{
+    "notification_status_updated_title": "ଆପଣଙ୍କ ରିପୋର୍ଟର ସ୍ଥିତି ବର୍ତ୍ତମାନ: {{status}}",
+    "notification_status_updated_body": "'{{category}}' ପାଇଁ ଆପଣଙ୍କ ରିପୋର୍ଟର ସ୍ଥିତି ଅପଡେଟ୍ କରାଯାଇଛି।",
+    "notification_assignment_title": "ଆପଣଙ୍କ ରିପୋର୍ଟ ଉପରେ କାର୍ଯ୍ୟ ଚାଲିଛି!",
+    "notification_assignment_body": "ଆପଣଙ୍କ ରିପୋର୍ଟ ବର୍ତ୍ତମାନ {{assignmentType}} କୁ ଦିଆଯାଇଛି।"
+} 

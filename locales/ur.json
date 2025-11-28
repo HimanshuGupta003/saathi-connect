@@ -1,0 +1,6 @@
+{
+    "notification_status_updated_title": "آپ کی رپورٹ کی حیثیت اب ہے: {{status}}",
+    "notification_status_updated_body": "'{{category}}' کے لیے آپ کی رپورٹ کی حیثیت کو اپ ڈیٹ کر دیا گیا ہے۔",
+    "notification_assignment_title": "آپ کی رپورٹ پر کارروائی جاری ہے!",
+    "notification_assignment_body": "آپ کی رپورٹ اب {{assignmentType}} کو سونپ دی گئی ہے۔"
+} 

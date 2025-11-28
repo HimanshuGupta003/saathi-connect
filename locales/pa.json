@@ -1,0 +1,6 @@
+{
+    "notification_status_updated_title": "ਤੁਹਾਡੀ ਰਿਪੋਰਟ ਦੀ ਸਥਿਤੀ ਹੁਣ ਹੈ: {{status}}",
+    "notification_status_updated_body": "'{{category}}' ਲਈ ਤੁਹਾਡੀ ਰਿਪੋਰਟ ਦੀ ਸਥਿਤੀ ਅੱਪਡੇਟ ਕੀਤੀ ਗਈ ਹੈ।",
+    "notification_assignment_title": "ਤੁਹਾਡੀ ਰਿਪੋਰਟ 'ਤੇ ਕਾਰਵਾਈ ਹੋ ਰਹੀ ਹੈ!",
+    "notification_assignment_body": "ਤੁਹਾਡੀ ਰਿਪੋਰਟ ਹੁਣ {{assignmentType}} ਨੂੰ ਸੌਂਪ ਦਿੱਤੀ ਗਈ ਹੈ।"
+} 
